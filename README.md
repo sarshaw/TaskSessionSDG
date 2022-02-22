@@ -8,6 +8,8 @@ This is the repository that contains the synthetic search session datasets and c
 
 **Output** contains generated synthetic datasets.
 
+**Results** contains the evaulation results.
+
 **SDG.ipynb** contains the code to generate synthetic data.
 
 ## Synthetic Data Generation
