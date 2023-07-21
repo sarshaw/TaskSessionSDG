@@ -1,0 +1,15 @@
+flask
+gunicorn
+sklearn
+pandas
+keybert
+numpy
+re
+beautifulsoup4
+google
+requests
+bs4
+spacy==3.0.0
+strsim
+texthero
+rank_bm25
